@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

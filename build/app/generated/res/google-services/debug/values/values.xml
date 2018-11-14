@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">571243414370-083ntvvd54r0pd8emdl2g2l21rkl2egf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flutterauthentication-3e146.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">571243414370</string>
+    <string name="google_api_key" translatable="false">AIzaSyCJZw3tRJbqkviuS3j15v0XRoIYolUtmzA</string>
+    <string name="google_app_id" translatable="false">1:571243414370:android:fe8235a1e3aa1507</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJZw3tRJbqkviuS3j15v0XRoIYolUtmzA</string>
+    <string name="google_storage_bucket" translatable="false">flutterauthentication-3e146.appspot.com</string>
+    <string name="project_id" translatable="false">flutterauthentication-3e146</string>
+</resources>

@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:firebase_auth] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/firebase_auth/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/google_sign_in/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/0066ea93eebc8643071d71bf7eabe820/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/1fd6b691735cc66b73e57e9a596049aa/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/19fd0805d70a7c6ccbcab278aba51d84/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/170841d6b36acffeb8e5bf493f187a43/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3e3605f63c3c89753ef8bcf398cf3566/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:17:1-30:12
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [:google_sign_in] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/google_sign_in/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/google_sign_in/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/1fd6b691735cc66b73e57e9a596049aa/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/1fd6b691735cc66b73e57e9a596049aa/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3e3605f63c3c89753ef8bcf398cf3566/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3e3605f63c3c89753ef8bcf398cf3566/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:17:9-47
+	android:icon
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.flutterauthentication.MainActivity
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/firebase_auth/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/firebase_auth/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/google_sign_in/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/build/google_sign_in/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/0066ea93eebc8643071d71bf7eabe820/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/0066ea93eebc8643071d71bf7eabe820/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/1fd6b691735cc66b73e57e9a596049aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/1fd6b691735cc66b73e57e9a596049aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/19fd0805d70a7c6ccbcab278aba51d84/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/19fd0805d70a7c6ccbcab278aba51d84/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/170841d6b36acffeb8e5bf493f187a43/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/170841d6b36acffeb8e5bf493f187a43/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3e3605f63c3c89753ef8bcf398cf3566/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3e3605f63c3c89753ef8bcf398cf3566/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/hagar/Computers/projects/Flutter projects/flutter_authentication project/flutter_authentication/android/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/0a805539ebe9cc6aba1cbf2c2ff9c8d6/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/691b6409971d225858f78aa09b79d112/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5d8b64e7f4d3d4f25ae1eaa15bd99e7a/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/hagar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/0f110bfe6779bc0053457df778fc0ee7/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/hagar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ebf1955f52120caf5ec1d46d75f70b80/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c80507dc6bdfb5d2a7b62b1db5a4edf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c09ce0f4075a652d2cbeaa16b92649ce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/47b5ee570d737bcb345aea38e82bcd16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6ed9bc5508a6cdd7ae43ccfaa205e0d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c56aaff996f797386d4038141dfec780/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cc2856d4acb40baadcf3de2398503581/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/hagar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/03bc78225f2aa05596f3ff57bf9bca41/AndroidManifest.xml:26:13-58
